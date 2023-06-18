@@ -1,0 +1,356 @@
+Type	Deaths	Name	Location	Year	Latitude	Longitude	Magnitude
+Avalanche	172	2010 Salang avalanches	AFG	2010			
+Avalanche	102	2010 Kohistan avalanche	PAK	2010			
+Avalanche	201	2012 Afghanistan avalanches	AFG	2012			
+Avalanche	138	2012 Gayari Sector avalanche	PAK	2012			
+Avalanche	11	2012 Manaslu avalanche	NPL	2012			
+Avalanche	9	Mont Maudit avalanche	FRA	2012			
+Avalanche	9	2012 Restelica avalanche	XKX	2012			
+Avalanche	43	2014 Nepal snowstorm disaster	NPL	2014			
+Avalanche	16	2014 Mount Everest avalanche	NPL	2014			
+Avalanche	22	2015 Mount Everest avalanches	NPL	2015			
+Avalanche	310	2015 Afghanistan avalanches	AFG	2015			
+Avalanche	9	2016 Aru Range avalanche	CHN	2016			
+Avalanche	29	Rigopiano avalanche	ITA	2017			
+Avalanche	24	2017 Gurez sector avalanche	IND	2017			
+Avalanche	41	2020 Van avalanches	TUR	2020			
+Avalanche	27	2022 Uttarakhand avalanche	IND	2022			
+Avalanche	11	2022 Marmolada serac collapse	ITA	2022			
+Avalanche	11	2009 Zigana avalanche	TUR	2009			
+Avalanche	10	2009 Afghan avalanches	AFG	2009			
+Avalanche	125	Kolka-Karmadon rock ice slide	RUS	2002			
+Avalanche	9	Cerro Ventana avalanche	ARG	2002			
+Avalanche	12	Kaprun avalanche	AUT	2000			
+Landslide	43	2014 Oso mudslide	USA	  2014	48.283	-121.847	
+Landslide	1525	2014 Badakhshan mudslides	AFG	  2014			
+Landslide	136	2014 Malin landslide	IND	  2014	19.161	73.688	
+Landslide	156	2014 Sunkoshi blockage	NPL	  2014			
+Landslide	74	2014 Hiroshima landslides	JPN	  2014			
+Landslide	16	2014 Badulla landslide	LKA	  2014			
+Landslide	93	2014 Indonesia landslide	IDN	  2014			
+Landslide	52	2015 Badakhshan landslides	AFG	  2015			
+Landslide	14	2015 Bahia landslide	BRA	  2015			
+Landslide	113	2015 Colombian landslide	COL	  2015			
+Landslide	350	2015 Guatemala landslide	GTM	  2015			
+Landslide	38	2015 Lidong landslide	CHN	  2015			
+Landslide	213	2015 Hpakant jade mine disaster	MMR	  2015			
+Landslide	329	2017 Mocoa landslide	COL	  2017	1.15	-76.648	
+Landslide	152	2017 Bangladesh landslides	BGD	  2017	22.633	92.2	
+Landslide	83	2017 Xinmo landslide	CHN	  2017	32.067	103.65	
+Landslide	1141	2017 Sierra Leone mudslides	SLE	  2017	8.483	-13.233	
+Landslide	20	2018 South California landslides	USA	  2018	34.05	-118.25	
+Landslide	71	2019 Hpakant landslides	MMR	  2019			
+Landslide	70	2019 Mottama landslide	MMR	  2019			
+Landslide	51	2019 Burundi landslides	BDI	2019	-2.8103	29.1856	
+Landslide	175	2020 Hpakant jade mine disaster	MMR	  2020			
+Landslide	66	2020 Pettimudi landslide	IND	  2020	10.163309	77.013144	
+Landslide	10	2020 Gjerdrum landslide	NOR	  2020	60.064612	11.036005	
+Landslide	27	2021 Atami mudslide	JPN	  2021			
+Landslide	231	2022 Petrópolis floods	BRA	  2022			
+Landslide	58	2022 Manipur landslide	IND	  2022			
+Landslide	1287	2010 Gansu mudslide	CHN	2010			
+Landslide	200	2010 Ugandan landslide	UGA	2010			
+Landslide	42	2010 Madeira floods and mudslides	PRT	2010			
+Landslide	20	Hunza Valley landslide	PAK	2010			
+Landslide	518	Siaolin mudslide	TWN	2009			
+Landslide	119	2008 Cairo landslide	EGY	2008			
+Landslide	123	2007 Chittagong mudslides	BGD	2007			
+Landslide	1126	2006 Southern Leyte mudslide	PHL	2006			
+Landslide	10	2005 La Conchita landslide	USA	2005			
+Landslide	32	2004 Sulawesi landslide	IDN	2004			
+Landslide	40	2001 Kerala landslide	IND	2001			
+Landslide	63	2022 Manguindanao del Norte landslide	PHL	  2022			
+Landslide	12	2022 Ischia landslide	ITA	  2022			
+Landslide	31	2022 Batang Kali landslide	MYS	  2022	3.423	101.754	
+Health Crisis	42000000	HIV/AIDS epidemic	Worldwide	1981-present			
+Health Crisis	455	2003-2019 Asia and Egypt avian influenza epidemic	CHN VNM EGY IDN	2003-2019			
+Health Crisis	95	2007 Netherlands Q-fever epidemic	NLD	2007-2018			
+Health Crisis	1100	2009-2010 West African meningitis outbreak	BFA MLI NER NGA	2009-2010			
+Health Crisis	284000	2009 swine flu pandemic	Worldwide	2009-2010			
+Health Crisis	10075	2010s Haiti cholera outbreak	HTI	2010-2019			
+Health Crisis	4500	2010-2014 Democratic Republic of the Congo measles outbreak	COD	2010-2014			
+Health Crisis	170	2011 Vietnam hand, foot, and mouth disease epidemic	VNM	2011			
+Health Crisis	350	2011 dengue outbreak in Pakistan	PAK	2011			
+Health Crisis	171	2012 yellow fever outbreak in Darfur	SDN	2012			
+Health Crisis	941	2012 Middle East respiratory syndrome coronavirus outbreak	Worldwide	2012-2021			
+Health Crisis	142	2013 Vietnam measles outbreak	VNM	2013-2014			
+Health Crisis	11323	Western African Ebola virus epidemic	GIN LBR SLE	2013-2016			
+Health Crisis	183	2013-2014 chikungunya outbreak	MEX USA BLZ CRI SLV GTM HND NIC PAN BRA COL ECU PRY VEN	2013-2015			
+Health Crisis	616	2013-19 avian influenza epidemic	CHN	2013-2019			
+Health Crisis	292	21st century Madagascar plague outbreaks	MDG	2014-2017			
+Health Crisis	12	Flint water crisis	USA	2014-2015			
+Health Crisis	36	2014 Odisha hepatitis outbreak	IND	2014-2015			
+Health Crisis	2035	2015 Indian swine flu outbreak	IND	2015			
+Health Crisis	53	2015-16 Zika virus epidemic	BRA COL VEN PRI HND SLV	2015-2016			
+Health Crisis	498	2016 Angola and Democratic Republic of the Congo yellow fever outbreak	AGO COD	2016			
+Health Crisis	3981	2016-2022 Yemen cholera outbreak	YEM	2016-2022			
+Health Crisis	69	2017 dengue outbreak in Peshawar	PAK	2017			
+Health Crisis	1317	2017 Gorakhpur hospital deaths	IND	2017			
+Health Crisis	440	2017 dengue outbreak in Sri Lanka	LKA	2017			
+Health Crisis	17	2018 Nipah virus outbreak in Kerala	IND	2018			
+Health Crisis	2280	Kivu Ebola epidemic	COD UGA	2018-2020			
+Health Crisis	31	2018 NDM-CRE outbreak in Italy	ITA	2018-2019			
+Health Crisis	7018	2019-2020 measles outbreak in the Democratic Republic of the Congo	COD	2019-2020			
+Health Crisis	415	2019 measles outbreak in the Philippines	PHL	2019			
+Health Crisis	15	2019 Kuala Koh measles outbreak	MYS	2019			
+Health Crisis	83	2019 Samoa measles outbreak	WSM	2019			
+Health Crisis	3930	2019-2020 dengue fever epidemic	BRA PHL VNM MEX NIC MYS COL IND BOL HND LKA THA BGD	2019-2020			
+Health Crisis	247	2019 Nigeria Lassa fever epidemic	NGA	2019-2021			
+Health Crisis	6941095	COVID-19 pandemic	Worldwide	2019-present			
+Health Crisis	55	2020 Democratic Republic of the Congo Ebola outbreak	COD	2020			
+Health Crisis	32	2020 dengue outbreak in Singapore	SGP	2020			
+Health Crisis	296	2020 Nigeria yellow fever epidemic	NGA	2020			
+Health Crisis	4332	2021 India black fungus epidemic	IND	2021-2022			
+Health Crisis	18	2022 hepatitis of unknown origin in children	USA GBR	2021-2022			
+Health Crisis	280	2022-2023 mpox outbreak	Worldwide	2022-2023			
+Health Crisis	77	2022 Uganda Ebola outbreak	UGA	2022-2023			
+Health Crisis	178	United Kingdom BSE outbreak	GBR	1996-2001			
+Health Crisis	128	1998-2000 Democratic Republic of the Congo Marburg virus outbreak	COD	1998-2000			
+Health Crisis	40	2000 Central America dengue epidemic	CRI SLV GTM HND NIC PAN	2000			
+Health Crisis	400	2001 Nigeria cholera epidemic	NGA	2001			
+Health Crisis	139	2001 South Africa cholera epidemic	ZAF	2001			
+Health Crisis	774	2002-2004 SARS outbreak	Worldwide	2002-2004			
+Health Crisis	455	2003-2019 Asia and Egypt avian influenza epidemic	AZE BGD KHM CAN CHL CHN DJI ECU EGY IND IDN IRQ LAO MMR NPL NGA PAK ESP THA TUR GBR USA VNM	2003-2019			
+Health Crisis	658	2004 Indonesia dengue epidemic	IDN	2004			
+Health Crisis	227	2004-2005 Angola Marburg virus outbreak	AGO	2004-2005			
+Health Crisis	27	2005 dengue outbreak in Singapore	SGP	2005			
+Health Crisis	1200	2006 Luanda cholera epidemic	AGO	2006			
+Health Crisis	61	2006 Ituri Province plague epidemic	COD	2006			
+Health Crisis	50	2006 dengue outbreak in India	IND	2006			
+Health Crisis	50	2006 dengue outbreak in Pakistan	PAK	2006			
+Health Crisis	1000	2006 Philippines dengue epidemic	PHL	2006			
+Health Crisis	394	2006-2007 East Africa Rift Valley fever outbreak	KEN SOM TZA	2006-2007			
+Health Crisis	187	Mweka Ebola epidemic	COD	2007			
+Health Crisis	684	2007 Ethiopia cholera epidemic	ETH	2007			
+Health Crisis	183	2007 Puerto Rico, Dominican Republic, and Mexico dengue fever epidemic	PRI DOM MEX	2007			
+Health Crisis	37	2007 Uganda Ebola outbreak	UGA	2007			
+Health Crisis	95	2007 Netherlands Q-fever epidemic	NLD	2007-2018			
+Health Crisis	67	2008 Brazil dengue epidemic	BRA	2008			
+Health Crisis	407	2008 Cambodia dengue epidemic	KHM	2008			
+Health Crisis	123	2008 Chad cholera epidemic	TCD	2008			
+Health Crisis	3322	2008-2017 China hand, foot, and mouth disease epidemic	CHN	2008-2017			
+Health Crisis	115	2008 India cholera epidemic	IND	2008			
+Health Crisis	18	2008 Madagascar plague outbreak	MDG	2008			
+Health Crisis	172	2008 Philippines dengue epidemic	PHL	2008			
+Health Crisis	4293	2008 Zimbabwean cholera outbreak	ZWE	2008-2009			
+Health Crisis	18	2009 Bolivian dengue fever epidemic	BOL	2009			
+Health Crisis	49	2009 Gujarat hepatitis outbreak	IND	2009			
+Earthquake/Tsunami	20852	2011 Tohoku earthquake and tsunami	JPN	2011	38.106	144.553	7.1
+Earthquake/Tsunami	944	2001 El Salvador earthquake	SLV	2001	13.049	-88.66	7.9
+Earthquake/Tsunami	20085	2001 Gujarat earthquake	IND	2001	23.419	70.232	7.7
+Earthquake/Tsunami	315	February 2001 El Salvador earthquake	SLV	2001	13.671	-88.938	6.6
+Earthquake/Tsunami	145	2001 southern Peru earthquake	PER	2001	-16.265	-73.641	8.4
+Earthquake/Tsunami	44	2002 Western Turkey earthquake	TUR	2002	38.573	31.271	6.5
+Earthquake/Tsunami	166	2002 Hindu Kush earthquakes	AFG	2002	36.502	70.482	7.4
+Earthquake/Tsunami	15	2002 Mindanao earthquake	PHL	2002	6.033	124.249	7.5
+Earthquake/Tsunami	1000	2002 Hindu Kush earthquakes	AFG	2002	36.062	69.315	6.1
+Earthquake/Tsunami	36	Eastern New Guinea region, Papua New Guinea	PNG	2002	-6.191	147.421	5.3
+Earthquake/Tsunami	50	Hindu Kush region, Afghanistan	AFG	2002	35.959	69.417	5.9
+Earthquake/Tsunami	261	2002 Bou'in-Zahra earthquake	IRN	2002	35.626	49.047	6.5
+Earthquake/Tsunami	29	2002 Molise earthquake	ITA	2002	41.789	14.872	5.9
+Earthquake/Tsunami	41	2002 Baltistan earthquakes	PAK	2002	35.517	74.654	6.3
+Earthquake/Tsunami	29	2003 Colima earthquake	MEX	2003	18.77	-104.104	7.6
+Earthquake/Tsunami	261	2003 Bachu earthquake	CHN	2003	39.61	77.23	6.3
+Earthquake/Tsunami	177	2003 Bingöl earthquake	TUR	2003	39.007	40.464	6.4
+Earthquake/Tsunami	2266	2003 Boumerdès earthquake	DZA	2003	36.964	3.634	6.8
+Earthquake/Tsunami	16	2003 Yunnan earthquake	CHN	2003	25.975	101.29	6.0
+Earthquake/Tsunami	11	2003 Zhaosu earthquake	KAZ CHN	2003	42.905	80.515	6.0
+Earthquake/Tsunami	26271	2003 Bam earthquake	IRN	2003	29.004	58.337	6.6
+Earthquake/Tsunami	37	February 2004 Nabire earthquakes	IDN	2004	-3.615	135.538	7.0
+Earthquake/Tsunami	24	2004 Pakistan earthquake	PAK	2004	34.774	73.216	5.5
+Earthquake/Tsunami	631	2004 Al Hoceima earthquake	MAR	2004	35.142	-3.997	6.4
+Earthquake/Tsunami	10	March 2004 Eastern Turkey earthquakes	TUR	2004	39.93	40.812	5.6
+Earthquake/Tsunami	35	2004 Baladeh earthquake	IRN	2004	36.27	51.575	6.3
+Earthquake/Tsunami	18	July 2004 Eastern Turkey earthquake	TUR	2004	39.799	43.778	5.2
+Earthquake/Tsunami	46	2004 Chuetsu earthquake	JPN	2004	37.231	138.753	6.6
+Earthquake/Tsunami	34	2004 Alor earthquake, Indonesia	IDN	2004	-8.172	124.856	7.5
+Earthquake/Tsunami	32	2004 Papua earthquake	IDN	2004	-3.573	135.346	7.1
+Earthquake/Tsunami	227898	2004 Indian Ocean earthquake and tsunami	IDN LKA IND THA MDV MYS MMR SOM	2004	3.316	95.854	9.1
+Earthquake/Tsunami	612	2005 Zarand earthquake	IRN	2005	30.741	56.877	6.4
+Earthquake/Tsunami	1313	2005 Nias-Simeulue earthquake	IDN	2005	2.074	97.013	8.6
+Earthquake/Tsunami	11	2005 Tarapacá earthquake	CHL	2005	-19.934	-69.028	7.8
+Earthquake/Tsunami	87351	2005 Kashmir earthquake	PAK	2005	34.493	73.629	7.6
+Earthquake/Tsunami	16	2005 Ruichang earthquake	CHN	2005	29.671	115.688	5.2
+Earthquake/Tsunami	13	2005 Qeshm earthquake	IRN	2005	26.784	55.847	6.0
+Earthquake/Tsunami	70	2006 Borujerd earthquake	IRN	2006	33.581	48.794	6.1
+Earthquake/Tsunami	5782	2006 Yogyakarta earthquake	IDN	2006	-7.962	110.458	6.3
+Earthquake/Tsunami	730	2006 Pangandaran earthquake and tsunami	IDN	2006	-9.222	107.32	7.7
+Earthquake/Tsunami	22	2006 Sichuan-Yunnan-Guizhou earthquake	CHN	2006	27.995	104.138	4.9
+Earthquake/Tsunami	67	March 2007 Sumatra earthquakes	IDN	2007	-0.512	100.524	6.4
+Earthquake/Tsunami	54	2007 Solomon Islands earthquake	SLB	2007	-8.481	156.978	8.1
+Earthquake/Tsunami	10	2007 Aisén Fjord earthquake	CHL	2007	-45.274	-72.604	6.2
+Earthquake/Tsunami	12	2007 Tajikistan earthquake	TJK	2007	38.936	70.485	5.2
+Earthquake/Tsunami	519	2007 Peru earthquake	PER	2007	-13.354	-76.509	8.0
+Earthquake/Tsunami	25	September 2007 Sumatra earthquakes	IDN	2007	-4.52	101.374	8.5
+Earthquake/Tsunami	44	2008 Lake Kivu earthquake	COD	2008	-2.318	28.945	5.9
+Earthquake/Tsunami	87589	2008 Sichuan earthquake	CHN	2008	30.986	103.364	7.9
+Earthquake/Tsunami	11	2008 El Calvario earthquake	COL	2008	4.447	-73.67	5.6
+Earthquake/Tsunami	13	2008 Iwate-Miyagi Nairiku earthquake	JPN	2008	39.122	140.678	6.9
+Earthquake/Tsunami	43	2008 Panzhihua earthquake	CHN	2008	26.241	101.889	6.0
+Earthquake/Tsunami	75	2008 Kyrgyzstan earthquake	KGZ	2008	39.515	73.768	6.7
+Earthquake/Tsunami	10	2008 Damxung earthquake	CHN	2008	29.761	90.32	6.4
+Earthquake/Tsunami	13	2008 Chechnya earthquake	RUS	2008	43.372	46.254	5.8
+Earthquake/Tsunami	215	2008 Ziarat earthquake	PAK	2008	30.656	67.361	6.4
+Earthquake/Tsunami	98	2009 Costa Rica earthquake	CRI	2009	10.197	-84.159	6.1
+Earthquake/Tsunami	309	2009 L'Aquila earthquake	ITA	2009	42.334	13.334	6.3
+Earthquake/Tsunami	22	April 2009 Afghanistan earthquake	AFG	2009	34.185	70.076	5.4
+Earthquake/Tsunami	79	2009 West Java earthquake	IDN	2009	-7.809	107.259	7.0
+Earthquake/Tsunami	11	2009 Bhutan earthquake	BTN	2009	27.346	91.412	6.1
+Earthquake/Tsunami	189	2009 Samoa earthquake and tsunami	WSM	2009	-15.509	-172.034	8.1
+Earthquake/Tsunami	1115	2009 Sumatra earthquakes	IDN	2009	-0.725	99.856	7.6
+Earthquake/Tsunami	160000	2010 Haiti earthquake	HTI	2010	18.443	-72.571	7.0
+Earthquake/Tsunami	550	2010 Chile earthquake	CHL	2010	-35.909	-72.733	8.8
+Earthquake/Tsunami	42	2010 Elazığ earthquake	TUR	2010	38.873	39.981	6.1
+Earthquake/Tsunami	2968	2010 Yushu earthquake	CHN	2010	33.224	96.666	6.9
+Earthquake/Tsunami	11	2010 Afghanistan earthquake	AFG	2010	35.633	67.658	5.6
+Earthquake/Tsunami	17	2010 Papua earthquake	IDN	2010	-2.171	136.549	7.0
+Earthquake/Tsunami	711	2010 Mentawai earthquake and tsunami	IDN	2010	-3.484	100.114	7.7
+Earthquake/Tsunami	11	2010 Hosseinabad earthquake	IRN	2010	28.491	59.117	6.5
+Earthquake/Tsunami	644	2011 Van earthquake	TUR	2011	38.691	43.497	7.1
+Earthquake/Tsunami	185	2011 Christchurch earthquake	NZL	2011	-43.583	172.68	6.1
+Earthquake/Tsunami	150	2011 Myanmar earthquake	MMR	2011	20.687	99.822	6.9
+Earthquake/Tsunami	111	2011 Sikkim earthquake	IND NPL	2011	27.723	88.064	6.9
+Earthquake/Tsunami	26	2011 Yunnan earthquake	MMR CHN	2011	24.727	97.597	5.5
+Earthquake/Tsunami	14	2011 Fergana Valley earthquake	KGZ	2011	40.151	71.426	6.1
+Earthquake/Tsunami	10	2011 Aceh Singkil Regency earthquakes	IDN	2011	2.958	97.916	6.6
+Earthquake/Tsunami	306	2012 East Azerbaijan earthquakes	IRN	2012	38.322	46.888	6.4
+Earthquake/Tsunami	81	2012 Yunnan earthquakes	CHN	2012	27.541	103.973	5.6
+Earthquake/Tsunami	75	2012 Afghanistan earthquakes	AFG	2012	36.082	69.316	5.7
+Earthquake/Tsunami	113	2012 Visayas earthquake	PHL	2012	9.964	123.246	6.7
+Earthquake/Tsunami	39	2012 Guatemala earthquake	GTM	2012	14.083	-91.916	7.4
+Earthquake/Tsunami	38	2012 Shwebo earthquake	MMR	2012	23.014	95.883	6.8
+Earthquake/Tsunami	20	2012 Northern Italy earthquakes	ITA	2012	44.814	11.079	5.8
+Earthquake/Tsunami	10	2012 Indian Ocean earthquakes	IDN	2012	2.311	93.063	8.6
+Earthquake/Tsunami	825	2013 Balochistan earthquakes	PAK	2013	26.971	65.52	7.7
+Earthquake/Tsunami	230	2013 Bohol earthquake	PHL	2013	9.88	124.117	7.1
+Earthquake/Tsunami	217	2013 Lushan earthquake	CHN	2013	30.284	102.956	6.6
+Earthquake/Tsunami	95	2013 Dingxi earthquake	CHN	2013	34.499	104.243	5.9
+Earthquake/Tsunami	37	2013 Bushehr earthquake	IRN	2013	28.5	51.591	6.4
+Earthquake/Tsunami	43	2013 Aceh earthquake	IDN	2013	4.698	96.687	6.1
+Earthquake/Tsunami	35	2013 Saravan earthquake	IRN PAK	2013	28.107	62.053	7.7
+Earthquake/Tsunami	22	2013 Balochistan earthquakes	PAK	2013	27.263	65.587	6.8
+Earthquake/Tsunami	18	2013 Laghman earthquake	AFG	2013	34.517	70.207	5.6
+Earthquake/Tsunami	18	2013 Solomon Islands earthquake	SLB	2013	-10.479	165.772	7.0
+Earthquake/Tsunami	729	2014 Ludian earthquake	CHN	2014	27.189	103.409	6.2
+Earthquake/Tsunami	9018	April 2015 Nepal earthquake	NPL	2015	28.147	84.708	7.8
+Earthquake/Tsunami	398	October 2015 Hindu Kush earthquake	AFG	2015	36.526	70.362	7.5
+Earthquake/Tsunami	218	May 2015 Nepal earthquake	NPL	2015	27.837	86.077	7.3
+Earthquake/Tsunami	18	2015 Sabah earthquake	MYS	2015	5.982	116.539	6.0
+Earthquake/Tsunami	20	2015 Illapel earthquake	CHL	2015	-31.57	-71.654	8.3
+Earthquake/Tsunami	682	2016 Ecuador earthquake	ECU	2016	0.352	-79.926	7.8
+Earthquake/Tsunami	299	August 2016 Central Italy earthquake	ITA	2016	42.714	13.172	6.2
+Earthquake/Tsunami	117	2016 Taiwan earthquake	TWN	2016	22.939	120.593	6.4
+Earthquake/Tsunami	104	2016 Aceh earthquake	IDN	2016	5.281	96.108	6.5
+Earthquake/Tsunami	40	2016 Kumamoto earthquakes	JPN	2016	32.793	130.749	7.0
+Earthquake/Tsunami	23	2016 Tanzania earthquake	TZA	2016	-1.03	31.56	5.9
+Earthquake/Tsunami	11	2016 Imphal earthquake	IND	2016	24.807	93.651	6.7
+Earthquake/Tsunami	630	2017 Iran-Iraq earthquake	IRN IRQ	2017	34.905	45.956	7.3
+Earthquake/Tsunami	370	2017 Central Mexico earthquake	MEX	2017	18.584	-98.399	7.1
+Earthquake/Tsunami	98	2017 Chiapas earthquake	MEX	2017	15.022	-93.899	8.2
+Earthquake/Tsunami	34	January 2017 Central Italy earthquakes	ITA	2017	42.601	13.241	5.7
+Earthquake/Tsunami	24	2017 Jiuzhaigou earthquake	CHN	2017	33.193	103.855	6.5
+Earthquake/Tsunami	5007	2018 Sulawesi earthquake and tsunami	IDN	2018	-0.256	119.846	7.5
+Earthquake/Tsunami	513	5 August 2018 Lombok earthquake	IDN	2018	-8.263	116.439	6.9
+Earthquake/Tsunami	160	2018 Papua New Guinea earthquake	PNG	2018	-6.149	142.766	7.5
+Earthquake/Tsunami	41	2018 Hokkaido Eastern Iburi earthquake	JPN	2018	42.671	141.933	6.6
+Earthquake/Tsunami	25	6 March 2018 Porgera earthquake	PNG	2018	-6.294	142.607	6.7
+Earthquake/Tsunami	20	July 2018 Lombok earthquake	IDN	2018	-8.274	116.491	6.4
+Earthquake/Tsunami	18	2018 Haiti earthquake	HTI	2018	20.041	-72.975	5.9
+Earthquake/Tsunami	17	2018 Hualien earthquake	TWN	2018	24.174	121.653	6.4
+Earthquake/Tsunami	14	2018 Oaxaca earthquake	MEX	2018	16.646	-97.653	7.2
+Earthquake/Tsunami	14	19 August 2018 Lombok earthquake	IDN	2018	-8.324	116.626	6.9
+Earthquake/Tsunami	11	4 March 2018 Porgera earthquake	PNG	2018	-6.307	142.62	6.0
+Earthquake/Tsunami	52	2019 Albania earthquake	ALB	2019	41.521	19.559	6.4
+Earthquake/Tsunami	41	2019 Ambon earthquake	IDN	2019	-3.45	128.347	6.5
+Earthquake/Tsunami	40	2019 Pakistani earthquake	PAK	2019	33.106	73.766	5.6
+Earthquake/Tsunami	27	2019 Cotabato earthquakes	PHL	2019	6.908	125.153	6.5
+Earthquake/Tsunami	18	2019 Luzon earthquake	PHL	2019	14.924	120.497	6.1
+Earthquake/Tsunami	14	2019 North Maluku earthquake	IDN	2019	-0.529	128.093	7.3
+Earthquake/Tsunami	13	2019 Sichuan earthquake	CHN	2019	28.405	104.957	5.8
+Earthquake/Tsunami	13	2019 Davao del Sur earthquake	PHL	2019	6.708	125.188	6.8
+Earthquake/Tsunami	119	2020 Aegean Sea earthquake	GRC	2020	37.918	26.79	7.0
+Earthquake/Tsunami	41	2020 Elazığ earthquake	TUR	2020	38.39	39.081	6.7
+Earthquake/Tsunami	10	2020 Iran-Turkey earthquakes	TUR IRN	2020	38.504	44.405	5.7
+Earthquake/Tsunami	10	2020 Oaxaca earthquake	MEX	2020	15.916	-95.953	7.4
+Earthquake/Tsunami	2577	2021 Haiti earthquake	HTI	2021	18.434	-73.482	7.2
+Earthquake/Tsunami	105	2021 West Sulawesi earthquake	IDN	2021	-2.976	118.901	6.2
+Earthquake/Tsunami	42	2021 Balochistan earthquake	PAK	2021	30.22	68.014	5.9
+Earthquake/Tsunami	20	2021 Maduo earthquake	CHN	2021	34.586	98.255	7.3
+Earthquake/Tsunami	13	2021 Guerrero earthquake	MEX	2021	16.982	-99.773	7.0
+Earthquake/Tsunami	12	2021 Northern Peru earthquake	PER	2021	-4.49	-76.846	7.5
+Earthquake/Tsunami	10	2021 East Java earthquake	IDN	2021	-8.562	112.519	6.0
+Earthquake/Tsunami	1163	June 2022 Afghanistan earthquake	AFG PAK	2022	33.092	69.514	6.0
+Earthquake/Tsunami	490	2022 West Java earthquake	IDN	2022	-6.853	107.095	5.6
+Earthquake/Tsunami	118	2022 Luding earthquake	CHN	2022	29.726	102.279	6.6
+Earthquake/Tsunami	30	January 2022 Afghanistan earthquake	AFG	2022	34.946	63.58	5.3
+Earthquake/Tsunami	27	2022 Sumatra earthquake	IDN	2022	0.233	100.106	6.1
+Earthquake/Tsunami	21	2022 Papua New Guinea earthquake	PNG	2022	-6.256	146.469	7.6
+Earthquake/Tsunami	18	September 2022 Afghanistan earthquake	AFG	2022	34.662	70.702	5.1
+Earthquake/Tsunami	11	2022 Luzon earthquake	PHL	2022	17.521	120.818	7.0
+Earthquake/Tsunami	10	2022 Świerklany Górne earthquake	POL	2022	50.057	18.628	2.7
+Flood	55	2001 Southeastern United States floods	USA	2001			
+Flood	232	2002 European floods	CZE ITA ESP AUT DEU SVK HUN ROU BGR HRV UKR RUS	2002			
+Flood	154	2003 Santa Fe flood	ARG	2003			
+Flood	2000	May 2004 Caribbean floods	CUB JAM HTI DOM	2004			
+Flood	1094	2005 Maharashtra floods	IND	2005			
+Flood	54700	2006 North Korean floods	PRK	2006			
+Flood	2000	2007 South Asian floods	IND NPL BTN PAK BGD	2007			
+Flood	2400	2008 Indian floods	IND	2008			
+Flood	299	2009 Indian floods	IND	2009			
+Flood	4245	2010 China floods	CHN	2010			
+Flood	2828	2011 Southeast Asian floods	THA KHM MMR VNM	2011			
+Flood	455	2012 Pakistan floods	PAK	2012			
+Flood	6054	2013 North India floods	IND	2013			
+Flood	400	2014 Baghlan floods	AFG	2014			
+Flood	506	2015 South India floods	IND	2015			
+Flood	525	2016 North Korean floods	PRK	2016			
+Flood	1300	2017 South Asian floods	AFG BGD IND NPL PAK	2017			
+Flood	1171	2018 Laos floods	LAO	2018			
+Flood	1600	2019 Indian floods	IND	2019			
+Flood	6511	2020 South Asian floods	AFG IND BGD NPL PAK LKA	2020			
+Flood	1107	2021 South Asian floods	AFG IND BGD NPL PAK LKA	2021			
+Flood	4422	2022 South Asian floods	AFG IND BGD NPL PAK LKA	2022			
+Tropical Cyclone/Hurricane	1268	Tropical Storm Washi	PHL	2011			
+Tropical Cyclone/Hurricane	3037	Hurricane Jeanne	DOM HTI BHS USA	2004			
+Tropical Cyclone/Hurricane	1593	Tropical Depression Winnie	PHL	2004			
+Tropical Cyclone/Hurricane	1392	Hurricane Katrina	BHS USA	2005			
+Tropical Cyclone/Hurricane	1668	Hurricane Stan	CRI NIC HND SLV BLZ GTM MEX	2005			
+Tropical Cyclone/Hurricane	1500	Typhoon Durian	PHL VNM	2006			
+Tropical Cyclone/Hurricane	3447	Cyclone Sidr	BGD	2007			
+Tropical Cyclone/Hurricane	138373	Cyclone Nargis	MMR	2008			
+Tropical Cyclone/Hurricane	1371	Typhoon Fengshen	PHL CHN	2008			
+Tropical Cyclone/Hurricane	1901	Typhoon Bopha	PHL	2012			
+Tropical Cyclone/Hurricane	6352	Typhoon Haiyan	PHL	2013			
+Tropical Cyclone/Hurricane	3059	Hurricane Maria	DMA PRI	2017			
+Tropical Cyclone/Hurricane	1593	Cyclone Idai	MOZ MWI MDG ZWE	2019			
+Tropical Cyclone/Hurricane	69	Semeru	IDN	2021			
+Volcanic Eruption	32	Mount Nyiragongo	COD	2021			
+Volcanic Eruption	39	Taal	PHL	2020			
+Volcanic Eruption	22	Whakaari/White Island	NZL	2019			
+Volcanic Eruption	426	Anak Krakatoa	IDN	2018			
+Volcanic Eruption	1545	Volcán de Fuego	GTM	2018			
+Volcanic Eruption	63	Mount Ontake	JPN	2014			
+Volcanic Eruption	16	Sinabung	IDN	2014			
+Volcanic Eruption	31	Nabro Volcano	ERI	2011			
+Volcanic Eruption	353	Mount Merapi	IDN	2010			
+Volcanic Eruption	245	Nyiragongo	COD	2002			
+Other	285000	Famine in Somalia, brought on by the 2011 East Africa drought	SOM	2011-2012			
+Other	72000	2003 European heat wave	ITA FRA ESP GBR PRT NLD DEU	2003			
+Other	3418	2006 European heat wave	GBR FRA BEL NLD LUX ITA POL CZE HUN DEU RUS	2006			
+Other	225	2006 North American heat wave	USA CAN	2006			
+Other	57600	2010 Northern Hemisphere heat waves	USA KAZ MNG CHN HKG CAN RUS KOR JPN MMR MRT SEN MLI NER MAR DZA SDN TCD ALB AND AUT BLR BEL BIH BGR HRV CZE DNK EST FIN FRA DEU GEO GRC HUN IRL ITA XKX LVA LIE LTU LUX MLT MDA MCO MNE NLD MKD NOR POL PRT ROU SMR SRB SVK SVN ESP SWE CHE TUR UKR GBR VAT	2010			
+Other	22	2011 North American heat wave	USA CAN	2011			
+Other	104	2012 North American heat wave	USA CAN	2012			
+Other	2500	2015 Indian heat wave	IND	2015			
+Other	2000	2015 Pakistan heat wave	PAK	2015			
+Other	160	2016 Indian heat wave	IND	2016			
+Other	70	2018 North American heat wave	CAN USA MEX	2018			
+Other	180	2018 Japan heat wave	JPN KOR	2018			
+Other	200	2019 Indo-Pakistani heat wave	IND PAK	2019			
+Other	3951	2019 European heat waves	BEL FRA DEU LUX NLD GBR	2019			
+Other	1408	2021 Western North America heat wave	USA CAN	2021			
+Other	90	2022 India-Pakistan heat wave	IND PAK	2022			
+Other	24501	2022 European heat waves	FRA ESP DEU GBR PRT IRL POL	2022			
+Other	173	Black Saturday bushfires	AUS	2009			
+Other	926	2008 Afghanistan blizzard	AFG	2008			
+Other	639	2021 North American winter storm	USA MEX	2021			

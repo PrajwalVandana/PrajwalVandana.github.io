@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-geo-projection@4"></script>
+  <!-- <link rel="stylesheet" href="styles.css"> -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
+  <title>WRI Visualization</title>
+</head>
+
+<body style="background-color:rgb(0,0,20); width: 80%; height: auto; margin:auto">
+  <center>
+    <div style="margin-top:15px">
+      <select id="year">
+        <option value="2000">2000</option>
+        <option value="2001">2001</option>
+        <option value="2002">2002</option>
+        <option value="2003">2003</option>
+        <option value="2004">2004</option>
+        <option value="2005">2005</option>
+        <option value="2006">2006</option>
+        <option value="2007">2007</option>
+        <option value="2008">2008</option>
+        <option value="2009">2009</option>
+        <option value="2010">2010</option>
+        <option value="2011">2011</option>
+        <option value="2012">2012</option>
+        <option value="2013">2013</option>
+        <option value="2014">2014</option>
+        <option value="2015">2015</option>
+        <option value="2016">2016</option>
+        <option value="2017">2017</option>
+        <option value="2018">2018</option>
+        <option value="2019">2019</option>
+        <option value="2020">2020</option>
+        <option value="2021">2021</option>
+        <option value="2022" selected>2022</option>
+      </select>
+
+      <select id="WRI_variable">
+        <!-- WRI,Exposure,Vulnerability,Susceptibility,Lack of Coping Capabilities,Lack of Adaptive Capacities -->
+        <option value="WRI" selected>WRI</option>
+        <option value="Exposure">Exposure</option>
+        <option value="Vulnerability">Vulnerability</option>
+        <option value="Susceptibility">Susceptibility</option>
+        <option value="Lack of Coping Capabilities">Lack of Coping Capabilities</option>
+        <option value="Lack of Adaptive Capacities">Lack of Adaptive Capacities</option>
+      </select>
+
+      <button id="clear_country">Clear Country</button>
+    </div>
+  </center>
+  <svg id="map" viewBox="0 0 1400 700" style="margin-top:20px; top:0; left:0; height:100%; width:100%; background-color:rgb(0,0,20); border:2px solid rgba(107, 107, 107, 0.364); border-radius: 10px"></svg>
+  <center>
+    <h3 id="text" style="color: white; font: 20px Roboto;">Worldwide</h3>
+  </center>
+  <div id="graphdiv">
+    <svg id="graph" viewBox="0 0 1400 700" style="top:0; left:0; height:100%; width:100%; background-color:rgb(0,0,20); border:2px solid rgba(107, 107, 107, 0.364); border-radius: 10px"></svg>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="map.js"></script>
+</body>
+
+</html>
